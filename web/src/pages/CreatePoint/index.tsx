@@ -244,6 +244,7 @@ const CreatePoint = () => {
           </legend>
 
           <ul className="items-grid">
+            {items.map(item => console.log(item.id))}
             {items.map(item => (
               <li 
                 key={item.id} 
