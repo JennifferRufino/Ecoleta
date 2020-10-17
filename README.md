@@ -1,23 +1,36 @@
+<h1 align="center">
+    <img alt="Ecoleta" title="Ecoleta" src="./ecoleta.png" width="220px" />
+</h1>
 
 <p align="center">
-   <img src="./ecoleta.png"/>
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-# Ecoleta ♻
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+</p>
 
-<h2> Tecnologias  </h2>
+<br>
 
-<ol> 
-   <li> NodeJs </li>
-   <li> ReactJS </li>
-   <li> React native </li>
-   <li> SQLite 3 </li>
-</ol>
+<p align="center">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+</p>
 
-<h2> Como contribuir </h2>
+## 🚀 Tecnologias
 
-<p> Realizar um git clone desse repositório. </p>
-<p> Instalar as dependências necessárias. Pra isso, é imprescindível dar um <strong> npm install </strong> no console. </p>
-<p> Feito isso, entre na pasta do server, e no console digite <strong> npm run dev </strong> </p>
-<p> Agora, em outro terminal, entre pasta da web e digite <strong> npm start </strong> </p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Projeto
+
+O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+
+<hr>
+
+#### Feito com ♥ with Jenniffer Rufino
 
