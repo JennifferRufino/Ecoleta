@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="./ecoleta.png" width="220px" />
+    <img alt="Ecoleta" title="Ecoleta" src="./ecoleta.png" width="100%" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="./web/src/assets/logo.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
